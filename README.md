@@ -18,7 +18,7 @@ It is based on the exportC.py plugin from David Muriuki Karibe [https://github.c
 
 # Example Input
 
-![Example Input Image](https://github.com/MrPozor/gimp_export565array/input_example.png "Example Input")
+![Example Image](https://github.com/MrPozor/gimp_export565array/blob/master/input_example.png "Example Input")
 
 # Example Output
 
